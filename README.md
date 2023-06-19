@@ -18,6 +18,10 @@
 
 #### 3.1 图像分割
 
-* segment-anything：
+* segment-anything(SAM)：
   * 地址：[https://github.com/xionghonglin/DoctorGLM](https://github.com/facebookresearch/segment-anything)
+  * 简介：大模型，图像分割。可作为CV人物的基座
+
+* Grounded-Segment-Anything(Grounded-SAM)：
+  * 地址：https://github.com/IDEA-Research/Grounded-Segment-Anything
   * 简介：大模型，图像分割。可作为CV人物的基座
