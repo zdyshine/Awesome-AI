@@ -25,3 +25,7 @@
 * Grounded-Segment-Anything(Grounded-SAM)：
   * 地址：https://github.com/IDEA-Research/Grounded-Segment-Anything
   * 简介：大模型，图像分割。可作为CV人物的基座
+
+* HQ-SAM：
+  * 地址：[https://github.com/IDEA-Research/Grounded-Segment-Anything](https://github.com/SysCV/sam-hq)https://github.com/SysCV/sam-hq
+  * 简介：大模型，图像分割。可作为CV人物的基座，分割质量更高更精准
