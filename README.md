@@ -26,10 +26,15 @@
 #### 3.1 图像生成
 * DragGAN：
   * 地址：https://github.com/XingangPan/DragGAN
-  * 地址：https://github.com/Zeqiang-Lai/DragGAN
   * 简介：可自由修改，拖拽等形式修改图像。目前支持的类型有限，商用需针对性训练。
+    
+#### 3.2 图像质量评价
+
+* SAM-IQA：
+  * 地址：https://github.com/Hedlen/SAM-IQA
+  * 简介：结合大模型，图像分割，进行IQA。
   * 
-#### 3.2 图像分割
+#### 3.3 图像分割
 
 * segment-anything(SAM)：
   * 地址：https://github.com/facebookresearch/segment-anything
