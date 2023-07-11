@@ -27,6 +27,10 @@
 * DragGAN：
   * 地址：https://github.com/XingangPan/DragGAN
   * 简介：可自由修改，拖拽等形式修改图像。目前支持的类型有限，商用需针对性训练。
+
+* AnimateDiff：
+  * 地址：https://github.com/guoyww/AnimateDiff
+  * 简介：提出了一种有效的框架，一次性对现有的大多数个性化文本到图像模型进行动画处理，从而节省了在特定模型上进行调优所需的精力。
     
 #### 3.2 图像质量评价
 
