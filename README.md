@@ -11,7 +11,20 @@
 
 * SadTalker：
   * 地址：https://github.com/OpenTalker/SadTalker
-  * 简介：语音驱动图片，生成可说话的动态图片。嘴型和微表情生成效果不错，稍有对齐问题，可通过后处理提升效果
+  * 简介：语音驱动图片，生成可说话的动态图片。嘴型和微表情生成效果不错，稍有对齐问题，可通过后处理提升效果。
+  * 效果测试：在合适的参数和输入图片场景下，可实现特定场景的应用。
+  
+* SadTalker-Video-Lip-Sync：
+  * 地址：https://github.com/Zz-ww/SadTalker-Video-Lip-Sync
+  * 简介：基于SadTalker的唇形优化
+      
+* GeneFace++：
+  * 地址：https://github.com/yerfor/GeneFacePlusPlus
+  * 简介：实现高嘴形对齐(lip-sync)、高视频真实度(video reality)、高系统效率(system efficiency)的虚拟人视频合成
+    
+* Wav2Lip:
+  * 地址：https://github.com/Rudrabha/Wav2Lip
+  * 简介：语音驱动唇部动作的经典之作。
 
 ###  2. <a name='Repaire-Enhance'></a>Repaire-Enhance
 
