@@ -64,3 +64,7 @@
 * HQ-SAM：
   * 地址：https://github.com/SysCV/sam-hq
   * 简介：大模型，图像分割。可作为CV人物的基座，分割质量更高更精准
+
+* SEELE：
+  * paper：https://browse.arxiv.org/pdf/2401.16861.pdf | https://yikai-wang.github.io/seele/
+  * 简介：修改图像中的物体进行移位操作
