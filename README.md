@@ -8,6 +8,12 @@
 
     
 ###  1. <a name='Audio-Face'></a>Audio-Face
+* Real3DPortrait:
+  * 地址：https://github.com/yerfor/Real3DPortrait
+  * 简介：在给定的样例中效果很好，需要研究示例样本去适配，该作者相关工作很多，多关注。
+* SyncTalk:
+  * 地址：https://github.com/ziqiaopeng/SyncTalk
+  * 简介：代码还未开源，示例视频中给的是上半身的视频，非大头照。
 
 * SadTalker：
   * 地址：https://github.com/OpenTalker/SadTalker
