@@ -74,3 +74,8 @@
 * SEELE：
   * paper：https://browse.arxiv.org/pdf/2401.16861.pdf | https://yikai-wang.github.io/seele/
   * 简介：修改图像中的物体进行移位操作
+  * 
+#### 3.4 图像生成视频
+* MoVideo：
+  * 地址：https://arxiv.org/pdf/2311.11325.pdf
+  * 简介：文生图，结合光流和深度估计，在生成视频。
