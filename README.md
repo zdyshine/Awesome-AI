@@ -3,7 +3,7 @@
 
 ## 目录
   - [1. Audio-Face](#1-Audio-Face)
-  - [2. Repaire-Enhance](#2-Repaire-Enhance)
+  - [2. I2V](#2-Image-To-Video)
   - [3. CV-base](#3-CV-base)
 
     
@@ -32,13 +32,14 @@
   * 地址：https://github.com/Rudrabha/Wav2Lip
   * 简介：语音驱动唇部动作的经典之作。
 
-###  2. <a name='Repaire-Enhance'></a>Repaire-Enhance
+###  2. <a name='I2V'></a>Image-To-Video
 
-#### 2.1 视频上色
+#### 2.1 图像生成视频
 
-* Video Colorization with Pre-trained Text-to-Image Diffusion Models：
-  * 地址：https://colordiffuser.github.io/
-  * 简介：扩散模型，文本到图像，视频上色
+* AtomoVideo:
+  * paper：https://arxiv.org/pdf/2403.01800.pdf
+  * github：https://atomo-video.github.io/
+  * 简介：基于多粒度图像注入，我们实现了生成的视频对给定图像的更高保真度。此外，得益于高质量的数据集和训练策略，我们在保持卓越的时间一致性和稳定性的同时实现了更大的运动强度。我们的架构灵活地扩展到视频帧预测任务，通过迭代生成实现长序列预测。
 
 ###  3. <a name='CV-base'></a>CV-base
 
