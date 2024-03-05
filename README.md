@@ -41,6 +41,10 @@
   * github：https://atomo-video.github.io/
   * 简介：基于多粒度图像注入，我们实现了生成的视频对给定图像的更高保真度。此外，得益于高质量的数据集和训练策略，我们在保持卓越的时间一致性和稳定性的同时实现了更大的运动强度。我们的架构灵活地扩展到视频帧预测任务，通过迭代生成实现长序列预测。
 
+* MoVideo：
+  * 地址：https://arxiv.org/pdf/2311.11325.pdf
+  * 简介：文生图，结合光流和深度估计，在生成视频。
+  * 
 ###  3. <a name='CV-base'></a>CV-base
 
 #### 3.1 图像生成
@@ -76,7 +80,3 @@
   * paper：https://browse.arxiv.org/pdf/2401.16861.pdf | https://yikai-wang.github.io/seele/
   * 简介：修改图像中的物体进行移位操作
   * 
-#### 3.4 图像生成视频
-* MoVideo：
-  * 地址：https://arxiv.org/pdf/2311.11325.pdf
-  * 简介：文生图，结合光流和深度估计，在生成视频。
